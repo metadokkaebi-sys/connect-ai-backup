@@ -1,0 +1,13 @@
+# Connect AI auto-generated
+.DS_Store
+.obsidian/
+.trash/
+node_modules/
+*.tmp
+*.log
+.cache/
+Thumbs.db
+_company/_agents/youtube/oauth.local.json
+connectailabstudy_byh.json
+_company/_agents/business/tools/paypal_revenue.py
+*.local.json
